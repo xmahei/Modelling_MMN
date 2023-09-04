@@ -29,4 +29,4 @@ Each of these cases requires changes in the stimuli. The stimuli for each case a
 
 
 ## File Descriptions
-MMN_simulations.ipynb: This file includes the simulations for the MMN phenomena with all cases involved. It generates figures for the spike monitor of all the populations.
+MMN_Modelling.py: This file includes the simulations for the MMN phenomena with all cases involved. It generates figures for the spike monitor of all the populations.
